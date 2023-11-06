@@ -66,11 +66,11 @@ bjp = set([line for line in bjp])
 congress = set([line for line in congress])
 
 # define bjp words
-bjp_words = set(['modi','narendra','bjp',])
+bjp_words = set(['modi','narendra','bjp','bharatiya janata party','bharatiya janata','bharatiya',' janata'])
 bjp_words.update(bjp)
 
 # define congress words
-congress_words = set(['congress','rahul','gandhi'])
+congress_words = set(['congress','rahul','gandhi','inc','indian national congress'])
 congress_words.update(congress)
 
 # initialize the tokenizer
