@@ -107,7 +107,7 @@ def replace_abb(list_of_strings, abbreviations):
     for string in list_of_strings:
         # if the string is a key in the abbreviations dictionary, replace it with the value
         if string in abbreviations.keys():
-            # lemmatize the string and append to the cleaned list
+            # append to the cleaned list
             cleaned.append(abbreviations[string])
         else:
             cleaned.append(string)
