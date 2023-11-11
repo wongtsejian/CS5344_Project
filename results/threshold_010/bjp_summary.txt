@@ -1,0 +1,16 @@
+Sentiments Summary
+New:
+Positive: 47320
+Negative: 29185
+Neutral: 27926
+Total: 104431
+Net: 18135
+Average: 0.17365533222893587
+
+Original:
+Positive: 45042
+Negative: 21983
+Neutral: 37406
+Total: 104431
+Net: 23059
+Average: 0.22080608248508585
